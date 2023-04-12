@@ -1,4 +1,4 @@
-import './news.dart';
+import '../modules/news.dart';
 
 List<News> litslatesNews = [
   News(
